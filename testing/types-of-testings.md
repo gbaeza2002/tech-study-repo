@@ -489,5 +489,5 @@ Remember: **The goal is not 100% test coverage, but confidence that your softwar
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: 2026*
 *Study Guide Version: 1.0*
